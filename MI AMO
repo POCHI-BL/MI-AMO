@@ -1,0 +1,41 @@
+{
+  "title": "MI AMO",
+  "description": "Jooin, un beta y plebeyo, lleva mucho tiempo enamorado de Rihit, un alfa de sangre real. Sin embargo, Jooin sabe que este amor nunca podrá florecer, ya que el príncipe debe casarse con un omega y suceder al trono. Jooin acaba marchándose del lado de Rihit, a pesar de que éste le pide a Jooin que se quede a su lado como su Dongsaeng para el resto de su vida.",
+  "artist": "Gihoebiyong",
+  "author": "Gihoebiyong",
+  "cover": "https://pbs.twimg.com/media/E6bRy77VoAg4iXi.jpg",
+  "chapters": {
+    "00": {
+      "title": "Prólogo",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/1uN85Ecg/"
+      },
+      "last_updated": "1616368746"
+    },
+    "1": {
+      "title": "Capítulo 1",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/YeYHsVl/"
+      },
+      "last_updated": "1616368746"
+    },
+    "2": {
+      "title": "Capítulo 2",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/kB5mucn/"
+      },
+      "last_updated": "1619043765"
+     },
+    "3": {
+      "title": "Capítulo 3",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/EKjNL35/"
+      },
+      "last_updated": "1619043765"        
+    }    
+  }
+}
